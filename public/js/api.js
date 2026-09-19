@@ -18,6 +18,19 @@ const SYNONYMS = {
   "mozzarella cheese": "mozzarella",
   "chicken breast": "chicken",
   "chicken thigh": "chicken",
+  "green onion": "green onion",
+  "garbanzo": "chickpea",
+  "garbanzo bean": "chickpea",
+  "chickpeas": "chickpea",
+  "lentils": "lentil",
+  "split pea": "peas",
+  "green beans": "green bean",
+  "lamb chop": "lamb",
+  "turkey breast": "turkey",
+  "mayo": "mayonnaise",
+  "parmigiano": "parmesan",
+  "parm": "parmesan",
+  "calamari": "squid",
 };
 
 function stripDiacritics(value) {
