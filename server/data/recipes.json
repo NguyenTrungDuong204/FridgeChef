@@ -1,0 +1,1903 @@
+[
+  {
+    "id": "r001",
+    "name": "Tomato Fried Eggs",
+    "image": "https://www.themealdb.com/images/media/meals/rwvw8q1765660071.jpg",
+    "cookTime": 15,
+    "difficulty": "easy",
+    "cuisine": "vietnamese",
+    "servings": 2,
+    "ingredients": [
+      {
+        "name": "egg",
+        "quantity": "3",
+        "optional": false
+      },
+      {
+        "name": "tomato",
+        "quantity": "2",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "quantity": "1/2",
+        "optional": false
+      },
+      {
+        "name": "garlic",
+        "quantity": "2 cloves",
+        "optional": false
+      },
+      {
+        "name": "green onion",
+        "quantity": "1 stalk",
+        "optional": true
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste",
+        "optional": true
+      },
+      {
+        "name": "pepper",
+        "quantity": "to taste",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Crack 3 eggs into a bowl. Add a pinch of salt and beat with chopsticks or a fork for 20–30 seconds, just until the whites and yolks mix. Do not whip in lots of air.",
+      "Halve 2 ripe tomatoes and cut into 2 cm wedges. Thinly slice ½ onion. Smash and mince 2 garlic cloves. Slice the green onion on a bias if using.",
+      "Set a 24–26 cm nonstick or well-seasoned pan over medium-high heat. Add 1 tablespoon oil. When it shimmers, pour in the eggs.",
+      "Push the eggs with a spatula for 20–40 seconds until they are softly set, still glossy, and slightly underdone. Transfer them to a plate. Do not brown them.",
+      "Lower the heat to medium. Add a splash of oil if the pan is dry. Cook onion 1 minute until translucent, then garlic 20 seconds until fragrant (do not burn).",
+      "Add tomato wedges and a pinch of salt. Cook 3–4 minutes, stirring now and then, until the edges wrinkle and a light sauce collects in the pan.",
+      "Return the eggs. Fold them through the tomatoes for 30–45 seconds so they finish cooking in the sauce. Taste and add pepper.",
+      "Scatter green onion on top and serve immediately with rice while the tomatoes are still juicy."
+    ]
+  },
+  {
+    "id": "r002",
+    "name": "Chicken Pho",
+    "image": "https://www.themealdb.com/images/media/meals/pbzcrx1763765096.jpg",
+    "cookTime": 45,
+    "difficulty": "medium",
+    "cuisine": "vietnamese",
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "chicken",
+        "quantity": "500 g",
+        "optional": false
+      },
+      {
+        "name": "noodle",
+        "quantity": "300 g",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 thumb",
+        "optional": false
+      },
+      {
+        "name": "cilantro",
+        "quantity": "1 handful",
+        "optional": false
+      },
+      {
+        "name": "green onion",
+        "quantity": "2 stalks",
+        "optional": false
+      },
+      {
+        "name": "fish sauce",
+        "quantity": "2 tbsp",
+        "optional": false
+      },
+      {
+        "name": "lime",
+        "quantity": "1",
+        "optional": true
+      },
+      {
+        "name": "chili",
+        "quantity": "1",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Peel 1 onion and slice it in half. Slice a 6 cm piece of ginger into thick coins. Char both in a dry pan or over a flame until blackened in spots, 4–6 minutes. This gives the broth a roasted smell.",
+      "Put 500 g chicken (bone-in pieces if you have them) in a pot with 2 litres of water, the charred onion, and ginger. Bring to a boil, then skim the grey foam.",
+      "Turn the heat to a gentle simmer. Cook uncovered 30–35 minutes until the chicken is cooked through (juices run clear, thickest part 74°C / 165°F).",
+      "Lift out the chicken. Strain the broth and keep it hot. Taste and season with 2–3 tablespoons fish sauce and a pinch of salt. The broth should taste savory, not only salty.",
+      "When the chicken is cool enough to handle, shred the meat, discarding skin and bones if you used bone-in pieces.",
+      "Soak or boil 300 g rice noodles according to the packet until just tender, then drain and rinse so they do not clump.",
+      "Divide noodles into 4 bowls. Top with shredded chicken. Ladle boiling broth over so the noodles heat through.",
+      "Serve with a plate of cilantro, sliced green onion, lime wedges, and sliced chili so each person seasons their own bowl."
+    ]
+  },
+  {
+    "id": "r003",
+    "name": "Garlic Butter Shrimp",
+    "image": "https://www.themealdb.com/images/media/meals/fpl3mv1766433431.jpg",
+    "cookTime": 20,
+    "difficulty": "easy",
+    "cuisine": "american",
+    "servings": 2,
+    "ingredients": [
+      {
+        "name": "shrimp",
+        "quantity": "400 g",
+        "optional": false
+      },
+      {
+        "name": "garlic",
+        "quantity": "4 cloves",
+        "optional": false
+      },
+      {
+        "name": "butter",
+        "quantity": "3 tbsp",
+        "optional": false
+      },
+      {
+        "name": "lemon",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "parsley",
+        "quantity": "2 tbsp",
+        "optional": true
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste",
+        "optional": true
+      },
+      {
+        "name": "pepper",
+        "quantity": "to taste",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Pat 400–500 g shrimp very dry with paper towels. Season lightly with salt and pepper. If they are frozen, thaw fully first or they will steam instead of sear.",
+      "Mince 4 garlic cloves. Juice ½ lemon and cut the rest into wedges. Chop a small handful of parsley.",
+      "Set a wide skillet over medium-high heat. Add 1 tablespoon oil. When hot, lay the shrimp in a single layer. Do not crowd the pan.",
+      "Cook 1–1½ minutes per side until the shrimp turn pink and opaque and curl into a loose C (an O usually means overcooked). Transfer to a plate.",
+      "Drop the heat to medium. Add 30 g butter. When it foams, add garlic and stir 30–45 seconds until fragrant, not brown.",
+      "Return the shrimp. Toss 30 seconds in the garlic butter. Squeeze in the lemon juice and toss again.",
+      "Turn off the heat. Stir in parsley. Taste; add a pinch of salt if needed. Serve at once with bread or rice to catch the butter."
+    ]
+  },
+  {
+    "id": "r004",
+    "name": "Spaghetti Carbonara",
+    "image": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg",
+    "cookTime": 25,
+    "difficulty": "medium",
+    "cuisine": "italian",
+    "servings": 2,
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": "200 g",
+        "optional": false
+      },
+      {
+        "name": "egg",
+        "quantity": "3",
+        "optional": false
+      },
+      {
+        "name": "bacon",
+        "quantity": "100 g",
+        "optional": false
+      },
+      {
+        "name": "cheese",
+        "quantity": "60 g",
+        "optional": false
+      },
+      {
+        "name": "pepper",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "quantity": "for pasta water",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Bring a large pot of water to a rolling boil and salt it well (it should taste like the sea). Keep a mug ready — you will need pasta water.",
+      "Cut 120–150 g bacon or pancetta into 1 cm strips. Grate about 60 g hard cheese (pecorino or parmesan). Crack 3 eggs into a bowl, add most of the cheese and plenty of black pepper, and beat until smooth.",
+      "Cook 320 g spaghetti until 1 minute shy of the packet time (still a firm bite). Scoop out 1 cup of starchy cooking water, then drain.",
+      "While the pasta cooks, fry the bacon in a wide pan over medium heat until the fat renders and the edges crisp, 6–8 minutes. Turn off the heat. Spoon off extra fat if the pan is swimming, leaving about 2 tablespoons.",
+      "Add the hot drained pasta to the bacon pan and toss so every strand is coated in fat. Wait 30 seconds so the pan is hot but not scorching — raw egg will scramble if it is too hot.",
+      "Pour in the egg–cheese mixture and toss hard, adding pasta water 1–2 tablespoons at a time until you have a glossy sauce that clings, not scrambled curds and not soup.",
+      "Taste. Add salt only if needed (bacon and cheese are salty) and more pepper. Plate immediately and shower with the remaining cheese."
+    ]
+  },
+  {
+    "id": "r005",
+    "name": "Margherita Pizza",
+    "image": "https://www.themealdb.com/images/media/meals/x0lk931587671540.jpg",
+    "cookTime": 30,
+    "difficulty": "medium",
+    "cuisine": "italian",
+    "servings": 2,
+    "ingredients": [
+      {
+        "name": "pizza dough",
+        "quantity": "1 ball",
+        "optional": false
+      },
+      {
+        "name": "mozzarella",
+        "quantity": "150 g",
+        "optional": false
+      },
+      {
+        "name": "tomato",
+        "quantity": "2",
+        "optional": false
+      },
+      {
+        "name": "basil",
+        "quantity": "1 handful",
+        "optional": false
+      },
+      {
+        "name": "olive oil",
+        "quantity": "2 tbsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Heat the oven to 250°C / 480°F with a baking stone or inverted sheet inside for at least 20 minutes. A screaming-hot surface gives you a crisp base.",
+      "If the dough is fridge-cold, rest it 20–30 minutes at room temperature so it stretches without snapping back.",
+      "On a floured surface, stretch 1 ball of pizza dough into a 28–30 cm round, leaving a slightly thicker rim. Do not use a rolling pin if you want bubbles in the crust.",
+      "Crush or blend 2 ripe tomatoes with a pinch of salt and 1 tablespoon olive oil into a loose sauce. Do not cook it — freshness is the point.",
+      "Tear 150–200 g mozzarella into small pieces and pat them dry so the pizza does not flood.",
+      "Slide the dough onto parchment or a peel. Spread a thin layer of tomato (too much makes the centre soggy). Scatter mozzarella. Drizzle a little olive oil.",
+      "Bake 8–12 minutes until the crust is blistered and the cheese is melted with light brown spots.",
+      "Out of the oven, tear fresh basil over the top. Rest 1 minute, then slice so the cheese sets slightly and does not slide off."
+    ]
+  },
+  {
+    "id": "r006",
+    "name": "Chicken Teriyaki",
+    "image": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+    "cookTime": 30,
+    "difficulty": "easy",
+    "cuisine": "japanese",
+    "servings": 2,
+    "ingredients": [
+      {
+        "name": "chicken",
+        "quantity": "400 g",
+        "optional": false
+      },
+      {
+        "name": "soy sauce",
+        "quantity": "3 tbsp",
+        "optional": false
+      },
+      {
+        "name": "sugar",
+        "quantity": "2 tbsp",
+        "optional": false
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tsp grated",
+        "optional": false
+      },
+      {
+        "name": "garlic",
+        "quantity": "2 cloves",
+        "optional": false
+      },
+      {
+        "name": "sesame",
+        "quantity": "1 tsp",
+        "optional": true
+      },
+      {
+        "name": "green onion",
+        "quantity": "1 stalk",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Slice 500 g boneless chicken into 1.5 cm strips. Pat dry. Mix 4 tablespoons soy sauce, 2 tablespoons sugar (or honey), 1 minced garlic clove, and 1 teaspoon grated ginger.",
+      "Toss the chicken with half the sauce and rest 10–15 minutes at room temperature while you slice green onion and toast sesame seeds in a dry pan 1 minute until nutty.",
+      "Heat 1 tablespoon oil in a skillet over medium-high. Shake excess marinade off the chicken and sear in a single layer, 3–4 minutes per side, until browned and cooked through.",
+      "Pour in the remaining sauce. Simmer 1–2 minutes, turning the chicken, until the sauce reduces to a shiny glaze that coats a spoon.",
+      "If the glaze is too salty, add a splash of water; if too thin, cook 30 seconds more.",
+      "Rest the chicken 3 minutes so juices settle. Slice against the grain if you used larger pieces.",
+      "Serve over rice. Scatter sesame seeds and sliced green onion on top."
+    ]
+  },
+  {
+    "id": "r007",
+    "name": "Salmon Rice Bowl",
+    "image": "https://www.themealdb.com/images/media/meals/1549542994.jpg",
+    "cookTime": 25,
+    "difficulty": "easy",
+    "cuisine": "japanese",
+    "servings": 2,
+    "ingredients": [
+      {
+        "name": "salmon",
+        "quantity": "2 fillets",
+        "optional": false
+      },
+      {
+        "name": "rice",
+        "quantity": "2 cups cooked",
+        "optional": false
+      },
+      {
+        "name": "avocado",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "cucumber",
+        "quantity": "1/2",
+        "optional": false
+      },
+      {
+        "name": "soy sauce",
+        "quantity": "2 tbsp",
+        "optional": false
+      },
+      {
+        "name": "sesame",
+        "quantity": "1 tsp",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Rinse 200 g rice until the water runs almost clear. Cook with the usual water ratio and rest 10 minutes off the heat, lid on, so grains steam through.",
+      "Pat a 250–300 g salmon fillet dry. Season with salt. Heat a film of oil in a pan over medium-high.",
+      "Place salmon skin-side down if it has skin. Cook 4–5 minutes without moving until the skin is crisp. Flip and cook 2–3 minutes more until the centre is just opaque and flakes with a fork (about 50–52°C for medium).",
+      "Rest the salmon 2 minutes, then flake into large chunks, discarding bones and very dark bloodline if you prefer.",
+      "Slice ½ avocado and ½ cucumber into thin half-moons. Mix 1 tablespoon soy sauce with a few drops of sesame oil for a drizzle.",
+      "Spoon rice into a bowl. Arrange salmon, avocado, and cucumber in sections, not mixed, so textures stay distinct.",
+      "Drizzle soy-sesame over the bowl. Finish with sesame seeds. Eat while the rice is warm and the salmon is still tender."
+    ]
+  },
+  {
+    "id": "r008",
+    "name": "Vegetable Fried Rice",
+    "image": "https://www.themealdb.com/images/media/meals/wuyd2h1765655837.jpg",
+    "cookTime": 20,
+    "difficulty": "easy",
+    "cuisine": "chinese",
+    "servings": 3,
+    "ingredients": [
+      {
+        "name": "rice",
+        "quantity": "3 cups cooked, cold",
+        "optional": false
+      },
+      {
+        "name": "egg",
+        "quantity": "2",
+        "optional": false
+      },
+      {
+        "name": "carrot",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "quantity": "1/2",
+        "optional": false
+      },
+      {
+        "name": "garlic",
+        "quantity": "2 cloves",
+        "optional": false
+      },
+      {
+        "name": "soy sauce",
+        "quantity": "2 tbsp",
+        "optional": false
+      },
+      {
+        "name": "green onion",
+        "quantity": "2 stalks",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Use 3 cups cold leftover rice. If it is clumped, wet your fingers and break it into separate grains. Fresh hot rice will turn gluey.",
+      "Dice 1 carrot small (5 mm). Slice ½ onion. Mince 2 garlic cloves. Beat 2 eggs with a pinch of salt. Slice green onion.",
+      "Heat 1 tablespoon oil in a wok or large skillet over high heat until it just smokes. Pour in eggs, scramble 20 seconds until barely set, and scrape onto a plate.",
+      "Add another tablespoon of oil. Stir-fry onion and carrot 2 minutes until the carrot loses its raw crunch. Add garlic 15 seconds.",
+      "Add the rice. Press and toss 2–3 minutes so grains toast and any clumps break. You should hear a light sizzle, not steaming.",
+      "Return the egg. Pour 2 tablespoons soy sauce around the rim of the pan (it caramelizes slightly) and toss until every grain is evenly stained.",
+      "Taste. Add a little more soy if needed. Fold in green onion off the heat and serve immediately."
+    ]
+  },
+  {
+    "id": "r009",
+    "name": "Thai Green Curry",
+    "image": "https://www.themealdb.com/images/media/meals/sstssx1487349585.jpg",
+    "cookTime": 35,
+    "difficulty": "medium",
+    "cuisine": "thai",
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "chicken",
+        "quantity": "400 g",
+        "optional": false
+      },
+      {
+        "name": "coconut milk",
+        "quantity": "400 ml",
+        "optional": false
+      },
+      {
+        "name": "curry paste",
+        "quantity": "2 tbsp",
+        "optional": false
+      },
+      {
+        "name": "basil",
+        "quantity": "1 handful",
+        "optional": false
+      },
+      {
+        "name": "bell pepper",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "eggplant",
+        "quantity": "1 small",
+        "optional": false
+      },
+      {
+        "name": "fish sauce",
+        "quantity": "1 tbsp",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Cut 400 g chicken into bite-size pieces. Slice 1 bell pepper and 1 small eggplant into 2 cm chunks. Pick Thai basil leaves if using.",
+      "Heat 1 teaspoon oil in a saucepan over medium. Fry 2 tablespoons green curry paste 1 minute, stirring, until the paste smells sharp and the oil looks a little red-green.",
+      "Pour in 100 ml coconut milk from a 400 ml can and fry the paste in that cream 1–2 minutes until you see oil separate around the edges.",
+      "Add the chicken and stir to coat. Pour in the rest of the coconut milk and 100 ml water. Bring to a gentle simmer — do not boil hard or the coconut can split.",
+      "Add eggplant and pepper. Simmer 12–15 minutes until the chicken is cooked through and eggplant is silky, not spongy.",
+      "Season with 1–2 tablespoons fish sauce. Taste: it should be salty, spicy, and a little sweet from the coconut. Add a pinch of sugar only if it tastes flat.",
+      "Turn off the heat. Tear in basil so it wilts from residual heat. Serve with jasmine rice."
+    ]
+  },
+  {
+    "id": "r010",
+    "name": "Pad Thai",
+    "image": "https://www.themealdb.com/images/media/meals/rg9ze01763479093.jpg",
+    "cookTime": 30,
+    "difficulty": "medium",
+    "cuisine": "thai",
+    "servings": 2,
+    "ingredients": [
+      {
+        "name": "noodle",
+        "quantity": "200 g",
+        "optional": false
+      },
+      {
+        "name": "shrimp",
+        "quantity": "200 g",
+        "optional": false
+      },
+      {
+        "name": "egg",
+        "quantity": "2",
+        "optional": false
+      },
+      {
+        "name": "bean sprout",
+        "quantity": "1 cup",
+        "optional": false
+      },
+      {
+        "name": "peanut",
+        "quantity": "3 tbsp crushed",
+        "optional": false
+      },
+      {
+        "name": "lime",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "fish sauce",
+        "quantity": "2 tbsp",
+        "optional": false
+      },
+      {
+        "name": "sugar",
+        "quantity": "1 tbsp",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Soak 200 g dried rice stick noodles in room-temperature water 20–30 minutes until pliable but not mushy. Drain well. (If using fresh noodles, loosen them with a splash of water.)",
+      "Mix the sauce: 3 tablespoons fish sauce, 2 tablespoons sugar, 1 tablespoon lime juice, and 1 tablespoon water. Taste — it should be salty-sour-sweet in balance.",
+      "Prep in bowls: 200 g shrimp (patted dry), 2 beaten eggs, 1 cup bean sprouts, chopped peanuts, lime wedges. Pad Thai cooks too fast to chop mid-way.",
+      "Heat a wok on high until very hot. Add 2 tablespoons oil. Stir-fry shrimp 1 minute until just pink; push to the side.",
+      "Pour in eggs and scramble 15 seconds. Add drained noodles and the sauce. Toss constantly 1–2 minutes so noodles absorb sauce and turn glossy, not broken.",
+      "Add most of the bean sprouts and toss 20 seconds so they stay crunchy. If noodles stick, splash 1 tablespoon water and keep tossing.",
+      "Plate. Top with peanuts, remaining sprouts, and lime. Squeeze lime at the table so the acid stays bright."
+    ]
+  },
+  {
+    "id": "r011",
+    "name": "Chicken Tacos",
+    "image": "https://www.themealdb.com/images/media/meals/ypxvwv1505333929.jpg",
+    "cookTime": 25,
+    "difficulty": "easy",
+    "cuisine": "mexican",
+    "servings": 3,
+    "ingredients": [
+      {
+        "name": "chicken",
+        "quantity": "400 g",
+        "optional": false
+      },
+      {
+        "name": "tortilla",
+        "quantity": "6",
+        "optional": false
+      },
+      {
+        "name": "lettuce",
+        "quantity": "1 cup shredded",
+        "optional": false
+      },
+      {
+        "name": "tomato",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "quantity": "1/2",
+        "optional": false
+      },
+      {
+        "name": "cilantro",
+        "quantity": "1 handful",
+        "optional": false
+      },
+      {
+        "name": "lime",
+        "quantity": "1",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Slice 400 g chicken into strips. Toss with ½ teaspoon salt, pepper, 1 teaspoon oil, and a squeeze of lime. Rest 10 minutes.",
+      "Dice 1 tomato. Thinly slice ½ onion. Shred lettuce. Chop cilantro. Warm 6 tortillas in a dry pan 20 seconds per side and wrap in a cloth so they stay flexible.",
+      "Heat a skillet over medium-high with 1 tablespoon oil. Cook chicken in a single layer 3–4 minutes per side until browned and the thickest strip is opaque.",
+      "Rest the chicken 3 minutes, then slice across the grain into taco-size pieces so it is not chewy.",
+      "Build each tortilla: lettuce first (it insulates against soggy bread), then chicken, tomato, onion, cilantro.",
+      "Finish with lime juice. Serve immediately while tortillas are warm. Do not load so full that they split."
+    ]
+  },
+  {
+    "id": "r012",
+    "name": "Beef Tacos",
+    "image": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+    "cookTime": 25,
+    "difficulty": "easy",
+    "cuisine": "mexican",
+    "servings": 3,
+    "ingredients": [
+      {
+        "name": "beef",
+        "quantity": "400 g",
+        "optional": false
+      },
+      {
+        "name": "tortilla",
+        "quantity": "6",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "cilantro",
+        "quantity": "1 handful",
+        "optional": false
+      },
+      {
+        "name": "lime",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "chili",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "tomato",
+        "quantity": "1",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "If using a whole piece of beef, mince or slice it very thin against the grain. Season 400 g beef with salt, pepper, and ½ teaspoon chili flakes or minced chili.",
+      "Dice tomato. Chop onion and cilantro. Cut lime into wedges. Warm tortillas and keep them wrapped.",
+      "Heat a heavy skillet until very hot. Add a thin film of oil. Brown the beef without stirring for 1 minute so you get crust, then break it up and cook 3–4 minutes more until no pink remains. Drain excess fat if the pan is greasy.",
+      "Taste the beef. Add salt or chili. It should be well seasoned on its own because tortillas and lime will dilute it.",
+      "Spoon beef into tortillas. Top with onion, cilantro, and tomato.",
+      "Squeeze lime over each taco just before eating. Serve extra chili on the side."
+    ]
+  },
+  {
+    "id": "r013",
+    "name": "Shakshuka",
+    "image": "https://www.themealdb.com/images/media/meals/g373701551450225.jpg",
+    "cookTime": 30,
+    "difficulty": "easy",
+    "cuisine": "mediterranean",
+    "servings": 3,
+    "ingredients": [
+      {
+        "name": "egg",
+        "quantity": "4",
+        "optional": false
+      },
+      {
+        "name": "tomato",
+        "quantity": "4",
+        "optional": false
+      },
+      {
+        "name": "bell pepper",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "garlic",
+        "quantity": "3 cloves",
+        "optional": false
+      },
+      {
+        "name": "chili",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "bread",
+        "quantity": "to serve",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Dice 1 onion and 1 bell pepper. Mince 3 garlic cloves and 1 chili (seeds out if you want less heat). Chop 4–5 ripe tomatoes, or use 400 g crushed tomato.",
+      "Warm 2 tablespoons olive oil in a wide skillet over medium heat. Cook onion and pepper 6–8 minutes until soft and sweet, not browned.",
+      "Add garlic and chili. Stir 30 seconds. Add tomatoes and a pinch of salt. Simmer 10–12 minutes, stirring, until the sauce thickens and a spoon dragged through leaves a trail.",
+      "Taste the sauce now — eggs will not add much salt. It should be bright and slightly spicy.",
+      "Make 4–5 wells with a spoon. Crack an egg into each well. Cover the pan. Cook 5–7 minutes until whites are set and yolks are still runny (or longer for firm yolks).",
+      "Do not stir after adding eggs. Spoon a little sauce over the whites if they lag behind the yolks.",
+      "Serve in the pan with toasted bread for scooping. Finish with extra chili if you like heat."
+    ]
+  },
+  {
+    "id": "r014",
+    "name": "Greek Salad",
+    "image": "https://www.themealdb.com/images/media/meals/k29viq1585565980.jpg",
+    "cookTime": 15,
+    "difficulty": "easy",
+    "cuisine": "mediterranean",
+    "servings": 2,
+    "ingredients": [
+      {
+        "name": "cucumber",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "tomato",
+        "quantity": "3",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "quantity": "1/2",
+        "optional": false
+      },
+      {
+        "name": "cheese",
+        "quantity": "100 g",
+        "optional": false
+      },
+      {
+        "name": "olive oil",
+        "quantity": "3 tbsp",
+        "optional": false
+      },
+      {
+        "name": "lettuce",
+        "quantity": "2 cups",
+        "optional": true
+      },
+      {
+        "name": "lemon",
+        "quantity": "1/2",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Wash and dry all vegetables well — leftover water waters down the dressing. Cut 2 tomatoes into wedges. Slice ½ cucumber into half-moons. Slice ¼ red onion paper-thin and soak 5 minutes in cold water if you want it milder, then drain.",
+      "Tear 2 handfuls of lettuce into bite-size pieces. Cube or crumble about 100 g feta or similar salty cheese.",
+      "Whisk 3 tablespoons olive oil with 1 tablespoon lemon juice and a pinch of salt and pepper until slightly thick.",
+      "In a wide bowl, toss lettuce, tomato, cucumber, and onion with most of the dressing. Taste; the vegetables should be coated, not swimming.",
+      "Scatter cheese on top rather than mixing hard, so it does not dissolve into mush.",
+      "Drizzle the remaining dressing over the cheese. Serve at once; dressed salad wilts in 15 minutes."
+    ]
+  },
+  {
+    "id": "r015",
+    "name": "Butter Chicken",
+    "image": "https://www.themealdb.com/images/media/meals/yxsurp1511304301.jpg",
+    "cookTime": 40,
+    "difficulty": "medium",
+    "cuisine": "indian",
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "chicken",
+        "quantity": "500 g",
+        "optional": false
+      },
+      {
+        "name": "butter",
+        "quantity": "3 tbsp",
+        "optional": false
+      },
+      {
+        "name": "tomato",
+        "quantity": "3",
+        "optional": false
+      },
+      {
+        "name": "cream",
+        "quantity": "1/2 cup",
+        "optional": false
+      },
+      {
+        "name": "yogurt",
+        "quantity": "1/2 cup",
+        "optional": false
+      },
+      {
+        "name": "garlic",
+        "quantity": "3 cloves",
+        "optional": false
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tbsp",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Cut 500 g chicken into 3 cm cubes. Mix with 4 tablespoons yogurt, 1 teaspoon grated ginger, 2 minced garlic cloves, and a pinch of salt. Marinate at least 20 minutes (up to overnight in the fridge).",
+      "Chop 3 tomatoes or keep 400 g tomato puree ready. Have 30 g butter and 100 ml cream measured.",
+      "Heat 1 tablespoon oil and half the butter in a pan over medium-high. Shake marinade off the chicken and brown in batches 2–3 minutes per side. It does not need to cook through yet. Set aside.",
+      "In the same pan, lower heat to medium. Add remaining butter, then garlic and ginger 30 seconds. Add tomatoes and a pinch of salt. Cook 8–10 minutes until thick and the oil peeks at the edges.",
+      "Return the chicken plus any juices. Simmer 8 minutes until the chicken is cooked through.",
+      "Stir in cream. Simmer 2 minutes on low — do not boil hard or the cream can split. Taste for salt.",
+      "Rest 2 minutes off the heat. Serve with rice or bread. The sauce should coat the chicken, not sit as a thin soup."
+    ]
+  },
+  {
+    "id": "r016",
+    "name": "Vegetable Curry",
+    "image": "https://www.themealdb.com/images/media/meals/sywrsu1511463066.jpg",
+    "cookTime": 35,
+    "difficulty": "easy",
+    "cuisine": "indian",
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "potato",
+        "quantity": "2",
+        "optional": false
+      },
+      {
+        "name": "carrot",
+        "quantity": "2",
+        "optional": false
+      },
+      {
+        "name": "coconut milk",
+        "quantity": "400 ml",
+        "optional": false
+      },
+      {
+        "name": "curry paste",
+        "quantity": "2 tbsp",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "garlic",
+        "quantity": "3 cloves",
+        "optional": false
+      },
+      {
+        "name": "spinach",
+        "quantity": "2 cups",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Peel and cube 2 potatoes and 2 carrots into 2 cm pieces so they cook at the same rate. Slice 1 onion. Mince 3 garlic cloves. Wash a large handful of spinach.",
+      "Heat 1 tablespoon oil over medium. Soften onion 5 minutes. Add garlic 30 seconds, then 2 tablespoons curry paste. Fry 1 minute until fragrant.",
+      "Add potato and carrot. Stir to coat. Pour in 400 ml coconut milk and 150 ml water. Bring to a simmer.",
+      "Cook 15–18 minutes, stirring now and then, until a knife slides through the potato with no resistance.",
+      "Fold in spinach and cook 1 minute until wilted. If the curry is too thick, add a splash of water; if thin, simmer uncovered 2 minutes.",
+      "Taste. Add salt or a squeeze of lime if you have it. The coconut should taste rounded, not raw.",
+      "Serve hot with rice. Leftovers thicken in the fridge; loosen with water when reheating."
+    ]
+  },
+  {
+    "id": "r017",
+    "name": "Kimchi Fried Rice",
+    "image": "https://www.themealdb.com/images/media/meals/wuyd2h1765655837.jpg",
+    "cookTime": 20,
+    "difficulty": "easy",
+    "cuisine": "korean",
+    "servings": 2,
+    "ingredients": [
+      {
+        "name": "rice",
+        "quantity": "2 cups cooked, cold",
+        "optional": false
+      },
+      {
+        "name": "kimchi",
+        "quantity": "1 cup",
+        "optional": false
+      },
+      {
+        "name": "egg",
+        "quantity": "2",
+        "optional": false
+      },
+      {
+        "name": "green onion",
+        "quantity": "2 stalks",
+        "optional": false
+      },
+      {
+        "name": "sesame oil",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "soy sauce",
+        "quantity": "1 tbsp",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Chop 1 cup well-fermented kimchi, reserving 2 tablespoons of the brine. Slice green onion. Beat 1 egg. Have 2 cups cold rice ready, grains separated.",
+      "Heat 1 teaspoon sesame oil and 1 teaspoon neutral oil in a skillet over medium-high. Add kimchi and stir-fry 2 minutes until the edges darken slightly and smell roasted, not only pickled.",
+      "Add rice and kimchi brine. Toss 2–3 minutes, pressing clumps, until rice is hot and stained red.",
+      "Season with 1 teaspoon soy sauce. Taste: it should be spicy, salty, and tangy. Add brine if it needs more punch, soy if it needs salt.",
+      "Push rice aside. Add a drop of oil and fry the egg until the white is set and the yolk is still runny, about 2 minutes, or cook both sides if you prefer.",
+      "Serve rice in a bowl with the egg on top. Scatter green onion. Break the yolk into the rice at the table."
+    ]
+  },
+  {
+    "id": "r018",
+    "name": "Bibimbap Bowl",
+    "image": "https://www.themealdb.com/images/media/meals/zry07j1763779321.jpg",
+    "cookTime": 40,
+    "difficulty": "medium",
+    "cuisine": "korean",
+    "servings": 2,
+    "ingredients": [
+      {
+        "name": "rice",
+        "quantity": "2 cups cooked",
+        "optional": false
+      },
+      {
+        "name": "beef",
+        "quantity": "200 g",
+        "optional": false
+      },
+      {
+        "name": "spinach",
+        "quantity": "2 cups",
+        "optional": false
+      },
+      {
+        "name": "carrot",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "egg",
+        "quantity": "2",
+        "optional": false
+      },
+      {
+        "name": "sesame oil",
+        "quantity": "2 tbsp",
+        "optional": false
+      },
+      {
+        "name": "soy sauce",
+        "quantity": "2 tbsp",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Cook 2 cups rice and keep it warm. Slice 150 g beef thin against the grain and marinate 10 minutes in 1 tablespoon soy sauce and ½ teaspoon sesame oil.",
+      "Blanch a handful of spinach 30 seconds in salted water, shock in cold water, squeeze dry, and season with a drop of sesame oil and salt.",
+      "Julienne 1 carrot. Sauté in a lightly oiled pan 2 minutes until just tender but still bright. Season with a pinch of salt.",
+      "Sear the beef in a hot pan 1–2 minutes until browned but still a little pink inside if you like it tender. Do not stew it.",
+      "Fry 1 egg sunny-side up: white set, yolk runny.",
+      "Bowl: rice on the bottom, then spinach, carrot, and beef in separate piles so the bowl looks composed. Set the egg in the centre.",
+      "Drizzle 1 teaspoon sesame oil and a little soy over the top. Mix thoroughly at the table so every bite of rice gets yolk and sesame."
+    ]
+  },
+  {
+    "id": "r019",
+    "name": "French Omelette",
+    "image": "https://www.themealdb.com/images/media/meals/yvpuuy1511797244.jpg",
+    "cookTime": 10,
+    "difficulty": "easy",
+    "cuisine": "french",
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "egg",
+        "quantity": "3",
+        "optional": false
+      },
+      {
+        "name": "butter",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "cheese",
+        "quantity": "20 g",
+        "optional": true
+      },
+      {
+        "name": "parsley",
+        "quantity": "1 tsp",
+        "optional": true
+      },
+      {
+        "name": "salt",
+        "quantity": "pinch",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Crack 3 eggs into a bowl with a pinch of salt. Beat with a fork until completely even in colour, about 20 seconds. Have 20 g cold butter cut in small cubes and 30 g grated cheese ready.",
+      "Warm an 18–20 cm nonstick pan over medium-low. Add half the butter and swirl as it melts — the pan should be hot enough that a drop of egg sets in 2 seconds, not instantly brown.",
+      "Pour in the eggs. Stir constantly with a spatula in small circles, shaking the pan, for 30–45 seconds until small curds form and the mixture looks like very loose custard.",
+      "Stop stirring. Let a thin skin set on the bottom 10 seconds. Scatter cheese down the centre. Tilt the pan and fold the omelette into a cigar with the spatula.",
+      "The inside should still be slightly creamy (baveuse). If it looks dry, you have gone too far.",
+      "Roll onto a warm plate seam-side down. Rub the remaining butter on top for shine. Scatter chopped parsley. Eat immediately."
+    ]
+  },
+  {
+    "id": "r020",
+    "name": "Lemon Herb Chicken",
+    "image": "https://www.themealdb.com/images/media/meals/4htbtm1783803558.jpg",
+    "cookTime": 35,
+    "difficulty": "easy",
+    "cuisine": "american",
+    "servings": 3,
+    "ingredients": [
+      {
+        "name": "chicken",
+        "quantity": "4 pieces",
+        "optional": false
+      },
+      {
+        "name": "lemon",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "rosemary",
+        "quantity": "2 sprigs",
+        "optional": false
+      },
+      {
+        "name": "thyme",
+        "quantity": "4 sprigs",
+        "optional": false
+      },
+      {
+        "name": "garlic",
+        "quantity": "4 cloves",
+        "optional": false
+      },
+      {
+        "name": "olive oil",
+        "quantity": "3 tbsp",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Pat 4 chicken thighs or 2 breasts dry. Season all over with salt and pepper. Zest 1 lemon, then cut it in half. Mince 3 garlic cloves. Strip 2 rosemary sprigs and a few thyme sprigs.",
+      "Mix 2 tablespoons olive oil, lemon zest, garlic, rosemary, and thyme. Rub this paste over the chicken. Rest 15 minutes (or up to 4 hours in the fridge).",
+      "Heat the oven to 200°C / 400°F. Heat an oven-safe skillet over medium-high with 1 teaspoon oil. Sear chicken skin-side down (if it has skin) 4–5 minutes until deep golden. Flip.",
+      "Squeeze half the lemon over the pan. Transfer the skillet to the oven. Roast 12–18 minutes depending on thickness, until the thickest part reads 74°C / 165°F.",
+      "Rest the chicken on a plate 5 minutes. Tent loosely with foil so juices redistribute.",
+      "Spoon pan juices over the meat. Serve with the remaining lemon cut into wedges. The herbs should smell toasted, not burnt; if garlic browned too far, scrape it off before serving."
+    ]
+  },
+  {
+    "id": "r021",
+    "name": "Miso Soup",
+    "image": "https://www.themealdb.com/images/media/meals/1529445893.jpg",
+    "cookTime": 15,
+    "difficulty": "easy",
+    "cuisine": "japanese",
+    "servings": 2,
+    "ingredients": [
+      {
+        "name": "miso",
+        "quantity": "2 tbsp",
+        "optional": false
+      },
+      {
+        "name": "tofu",
+        "quantity": "150 g",
+        "optional": false
+      },
+      {
+        "name": "green onion",
+        "quantity": "2 stalks",
+        "optional": false
+      },
+      {
+        "name": "mushroom",
+        "quantity": "4",
+        "optional": false
+      },
+      {
+        "name": "stock",
+        "quantity": "3 cups",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Bring 800 ml light stock (or water plus a pinch of salt) to a bare simmer — small bubbles, not a rolling boil, or the miso will taste harsh later.",
+      "Slice 4 mushrooms thin. Cube 150 g tofu into 1.5 cm cubes. Slice 2 green onions, whites and greens separated.",
+      "Simmer mushroom and tofu in the stock 4–5 minutes until mushrooms soften and tofu is heated through. Add onion whites for the last minute.",
+      "Put 3 tablespoons miso in a small bowl. Ladle in a little hot stock and whisk until smooth with no lumps. Never dump dry miso straight into the pot — it clumps.",
+      "Turn the heat off. Stir the dissolved miso into the pot. Do not boil after this or the miso’s aroma flattens and it can separate.",
+      "Taste. Add a little more miso if it tastes thin, or a splash of stock if it is too salty.",
+      "Ladle into bowls. Top with onion greens. Serve immediately while steaming."
+    ]
+  },
+  {
+    "id": "r022",
+    "name": "Avocado Toast",
+    "image": "https://www.themealdb.com/images/media/meals/lz9rw91779733434.jpg",
+    "cookTime": 10,
+    "difficulty": "easy",
+    "cuisine": "american",
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": "2 slices",
+        "optional": false
+      },
+      {
+        "name": "avocado",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "egg",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "lemon",
+        "quantity": "1/2",
+        "optional": false
+      },
+      {
+        "name": "chili",
+        "quantity": "pinch of flakes",
+        "optional": true
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Toast 2 thick slices of bread until the surface is crisp but the centre still has a little chew, 2–3 minutes in a toaster or skillet.",
+      "Halve 1 ripe avocado. Scoop the flesh into a bowl. Add a squeeze of lemon, a pinch of salt, and mash with a fork, leaving some chunks.",
+      "Taste the mash: it should be lemony enough to stay bright green and not dull. Add chili flakes or minced chili.",
+      "Fry or poach 2 eggs: for fried, medium heat, 2–3 minutes until whites set and edges barely crisp; for poached, 3 minutes in barely simmering water with a drop of vinegar.",
+      "Spread avocado thickly on the toast, going all the way to the crust so bites are not dry bread.",
+      "Set an egg on each slice. Sprinkle salt, pepper, and more chili. Eat at once so the toast does not steam soggy under the avocado."
+    ]
+  },
+  {
+    "id": "r023",
+    "name": "Mushroom Risotto",
+    "image": "https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg",
+    "cookTime": 40,
+    "difficulty": "hard",
+    "cuisine": "italian",
+    "servings": 3,
+    "ingredients": [
+      {
+        "name": "rice",
+        "quantity": "1 cup",
+        "optional": false
+      },
+      {
+        "name": "mushroom",
+        "quantity": "250 g",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "garlic",
+        "quantity": "2 cloves",
+        "optional": false
+      },
+      {
+        "name": "butter",
+        "quantity": "2 tbsp",
+        "optional": false
+      },
+      {
+        "name": "cheese",
+        "quantity": "50 g",
+        "optional": false
+      },
+      {
+        "name": "stock",
+        "quantity": "4 cups",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Warm 1 litre stock in a saucepan and keep it at a simmer. Cold stock dropped into rice stalls cooking.",
+      "Dice 1 small onion. Mince 2 garlic cloves. Slice 250 g mushrooms. Have 30 g butter and 50 g grated cheese ready. Measure 200 g short-grain or arborio rice — do not rinse it; you need the starch.",
+      "Melt half the butter in a wide pan over medium. Cook onion 4 minutes until translucent. Add mushrooms and a pinch of salt; cook 5–6 minutes until they release water and it evaporates. Add garlic 30 seconds.",
+      "Add rice. Stir 1–2 minutes until edges look translucent (tostatura). This helps grains stay separate later.",
+      "Add a ladle of hot stock. Stir until almost absorbed. Repeat, one ladle at a time, 16–20 minutes. Stir often but not frantically. The rice is done when the centre of a grain is still a tiny bit firm.",
+      "If you run out of stock before the rice is tender, use hot water. The finished risotto should flow slowly like lava, not sit in a mound or a puddle.",
+      "Off the heat, beat in remaining butter and cheese (mantecatura). Rest 1 minute. Taste for salt. Serve immediately in warm bowls — risotto waits for no one."
+    ]
+  },
+  {
+    "id": "r024",
+    "name": "Tofu Stir Fry",
+    "image": "https://www.themealdb.com/images/media/meals/47y6ii1765658818.jpg",
+    "cookTime": 20,
+    "difficulty": "easy",
+    "cuisine": "chinese",
+    "servings": 2,
+    "ingredients": [
+      {
+        "name": "tofu",
+        "quantity": "300 g",
+        "optional": false
+      },
+      {
+        "name": "broccoli",
+        "quantity": "1 head",
+        "optional": false
+      },
+      {
+        "name": "bell pepper",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "garlic",
+        "quantity": "3 cloves",
+        "optional": false
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "soy sauce",
+        "quantity": "3 tbsp",
+        "optional": false
+      },
+      {
+        "name": "sesame oil",
+        "quantity": "1 tsp",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Press 300 g tofu between towels with a plate on top for 10 minutes to squeeze out water. Cube into 2 cm pieces. Cut broccoli into small florets. Slice 1 bell pepper. Mince garlic and ginger.",
+      "Mix 3 tablespoons soy sauce, 1 teaspoon sesame oil, and 1 teaspoon sugar or honey.",
+      "Heat 2 tablespoons oil in a wok over high heat. Fry tofu until golden on at least two sides, 4–6 minutes. Remove to a plate.",
+      "Add broccoli and 2 tablespoons water. Cover 1 minute to steam-sear, then uncover and add pepper. Stir-fry 2 minutes until broccoli is bright green with a little char.",
+      "Add garlic and ginger 15 seconds. Return tofu. Pour in sauce and toss 30–45 seconds until everything is coated and the sauce clings.",
+      "Taste. Add soy if bland, a splash of water if too salty. Serve at once over rice. Tofu left sitting in sauce will go soggy."
+    ]
+  },
+  {
+    "id": "r025",
+    "name": "Club Sandwich",
+    "image": "https://www.themealdb.com/images/media/meals/djdg8l1784578885.jpg",
+    "cookTime": 15,
+    "difficulty": "easy",
+    "cuisine": "american",
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": "3 slices",
+        "optional": false
+      },
+      {
+        "name": "chicken",
+        "quantity": "80 g cooked",
+        "optional": false
+      },
+      {
+        "name": "bacon",
+        "quantity": "3 slices",
+        "optional": false
+      },
+      {
+        "name": "lettuce",
+        "quantity": "2 leaves",
+        "optional": false
+      },
+      {
+        "name": "tomato",
+        "quantity": "4 slices",
+        "optional": false
+      },
+      {
+        "name": "cheese",
+        "quantity": "1 slice",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Cook 4 bacon rashes in a skillet over medium heat until crisp, 6–8 minutes. Drain on paper. In the same pan, warm sliced cooked chicken 1 minute if it is fridge-cold.",
+      "Toast 3 slices of bread per sandwich until golden. Lettuce leaves should be dry. Slice tomato 5 mm thick and salt lightly so it tastes of something.",
+      "Lay out bread. Spread a thin smear of butter or mayonnaise if you have it (optional) so the bread does not taste dry.",
+      "Build: bread, lettuce, tomato, chicken, bread, bacon, cheese, lettuce, bread. Press gently so layers grip.",
+      "Insert toothpicks in four corners. Cut diagonally into triangles so the cross-section shows the layers.",
+      "Serve immediately while bacon is still crisp. If packing, keep tomato away from bread until eating or the toast turns wet."
+    ]
+  },
+  {
+    "id": "r026",
+    "name": "Creamy Potato Soup",
+    "image": "https://www.themealdb.com/images/media/meals/tvvxpv1511191952.jpg",
+    "cookTime": 35,
+    "difficulty": "easy",
+    "cuisine": "french",
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "potato",
+        "quantity": "4",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "milk",
+        "quantity": "1 cup",
+        "optional": false
+      },
+      {
+        "name": "butter",
+        "quantity": "2 tbsp",
+        "optional": false
+      },
+      {
+        "name": "stock",
+        "quantity": "3 cups",
+        "optional": false
+      },
+      {
+        "name": "parsley",
+        "quantity": "2 tbsp",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Peel and cube 600 g potatoes into 2 cm chunks. Dice 1 onion. Chop parsley.",
+      "Melt 30 g butter in a pot over medium heat. Cook onion 6 minutes until soft and sweet, no colour.",
+      "Add potato and 700 ml stock. Bring to a boil, then simmer 15 minutes until potatoes mash easily against the pot wall.",
+      "Take off the heat. Mash in the pot for a rustic texture, or blend half and return it if you want it silkier. Leave some chunks either way.",
+      "Stir in 200 ml milk. Return to low heat. Do not boil hard after adding milk or it can catch and taste scorched. Heat until steaming.",
+      "Season with salt and white or black pepper. If too thick, add stock; if thin, simmer 2 minutes uncovered.",
+      "Ladle into bowls. Finish with parsley and a small knob of butter if you like shine."
+    ]
+  },
+  {
+    "id": "r027",
+    "name": "Garlic Noodles",
+    "image": "https://www.themealdb.com/images/media/meals/f3cxnc1765656994.jpg",
+    "cookTime": 15,
+    "difficulty": "easy",
+    "cuisine": "vietnamese",
+    "servings": 2,
+    "ingredients": [
+      {
+        "name": "noodle",
+        "quantity": "250 g",
+        "optional": false
+      },
+      {
+        "name": "garlic",
+        "quantity": "6 cloves",
+        "optional": false
+      },
+      {
+        "name": "butter",
+        "quantity": "2 tbsp",
+        "optional": false
+      },
+      {
+        "name": "soy sauce",
+        "quantity": "2 tbsp",
+        "optional": false
+      },
+      {
+        "name": "green onion",
+        "quantity": "2 stalks",
+        "optional": false
+      },
+      {
+        "name": "sesame",
+        "quantity": "1 tsp",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Boil 300 g noodles in salted water until just tender. Scoop out ½ cup cooking water. Drain.",
+      "Thinly slice 5–6 garlic cloves — more slices brown more evenly than a rough mince. Slice green onion. Toast 1 teaspoon sesame seeds.",
+      "Melt 40 g butter in a wide pan over medium-low. Add garlic and cook 2–3 minutes, stirring, until pale gold and smelling sweet. If it turns dark brown, start over — bitter garlic will ruin the dish.",
+      "Add 2 tablespoons soy sauce and a splash of noodle water. It should bubble into a brown emulsion.",
+      "Add noodles. Toss 1 minute, adding water a spoon at a time until every strand is coated and glossy.",
+      "Taste. The noodles should be savory and garlicky, not salty-dry. Scatter green onion and sesame. Serve immediately."
+    ]
+  },
+  {
+    "id": "r028",
+    "name": "Caprese Pasta",
+    "image": "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg",
+    "cookTime": 25,
+    "difficulty": "easy",
+    "cuisine": "italian",
+    "servings": 3,
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": "300 g",
+        "optional": false
+      },
+      {
+        "name": "tomato",
+        "quantity": "3",
+        "optional": false
+      },
+      {
+        "name": "mozzarella",
+        "quantity": "150 g",
+        "optional": false
+      },
+      {
+        "name": "basil",
+        "quantity": "1 handful",
+        "optional": false
+      },
+      {
+        "name": "olive oil",
+        "quantity": "3 tbsp",
+        "optional": false
+      },
+      {
+        "name": "garlic",
+        "quantity": "2 cloves",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Bring a large pot of salted water to a boil. Cook 300 g short pasta until al dente. Reserve ½ cup water, then drain.",
+      "Halve 250 g ripe tomatoes (cherry tomatoes work well). Tear 150 g mozzarella into chunks and drain extra liquid. Tear a handful of basil. Mince 2 garlic cloves.",
+      "Warm 3 tablespoons olive oil over medium-low. Cook garlic 1 minute until fragrant, not brown.",
+      "Add tomatoes and a pinch of salt. Cook 4–5 minutes until they slump and release juice but still hold shape.",
+      "Toss in the pasta. Add a splash of pasta water so the oil and tomato juice form a light sauce.",
+      "Take off the heat. Fold in mozzarella and basil so the cheese softens but does not fully melt into strings. Taste for salt.",
+      "Serve at once. If it sits, mozzarella weeps and the pasta cools — this dish is meant hot-and-fresh."
+    ]
+  },
+  {
+    "id": "r029",
+    "name": "Beef Stir Fry",
+    "image": "https://www.themealdb.com/images/media/meals/1529445434.jpg",
+    "cookTime": 20,
+    "difficulty": "medium",
+    "cuisine": "chinese",
+    "servings": 3,
+    "ingredients": [
+      {
+        "name": "beef",
+        "quantity": "350 g",
+        "optional": false
+      },
+      {
+        "name": "broccoli",
+        "quantity": "1 head",
+        "optional": false
+      },
+      {
+        "name": "garlic",
+        "quantity": "3 cloves",
+        "optional": false
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "soy sauce",
+        "quantity": "3 tbsp",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "sesame oil",
+        "quantity": "1 tsp",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Slice 350 g beef thin against the grain (partially frozen meat slices cleaner). Toss with 1 teaspoon soy sauce. Cut broccoli into florets. Slice 1 onion. Mince garlic and ginger.",
+      "Mix sauce: 3 tablespoons soy sauce, 1 teaspoon sesame oil, 1 teaspoon sugar, 2 tablespoons water.",
+      "Heat a wok on high until smoking. Add 1 tablespoon oil. Sear beef 45–60 seconds per side in batches until browned but still pink inside. Remove. Overcrowding steams the meat grey.",
+      "Add broccoli, onion, and 2 tablespoons water. Stir-fry 2–3 minutes until broccoli is bright and onion edges char slightly.",
+      "Add garlic and ginger 15 seconds. Return beef. Pour sauce. Toss 30 seconds until the sauce thickens from the meat juices and coats everything.",
+      "Taste. Serve immediately over rice. Resting in the wok will overcook the beef."
+    ]
+  },
+  {
+    "id": "r030",
+    "name": "Honey Garlic Salmon",
+    "image": "https://www.themealdb.com/images/media/meals/xxyupu1468262513.jpg",
+    "cookTime": 25,
+    "difficulty": "easy",
+    "cuisine": "american",
+    "servings": 2,
+    "ingredients": [
+      {
+        "name": "salmon",
+        "quantity": "2 fillets",
+        "optional": false
+      },
+      {
+        "name": "honey",
+        "quantity": "2 tbsp",
+        "optional": false
+      },
+      {
+        "name": "garlic",
+        "quantity": "3 cloves",
+        "optional": false
+      },
+      {
+        "name": "soy sauce",
+        "quantity": "2 tbsp",
+        "optional": false
+      },
+      {
+        "name": "lemon",
+        "quantity": "1/2",
+        "optional": false
+      },
+      {
+        "name": "sesame",
+        "quantity": "1 tsp",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Pat 2 salmon fillets dry. Season with salt. Mix 2 tablespoons honey, 2 tablespoons soy sauce, 2 minced garlic cloves, and 1 tablespoon lemon juice.",
+      "Heat 1 teaspoon oil in an oven-safe pan over medium-high. Sear salmon 3 minutes skin-side down (or presentation side) until a crust forms. Flip.",
+      "Pour the honey-soy mix around, not only on, the fish. It should bubble. Spoon glaze over the top.",
+      "Lower heat to medium. Cook 3–5 minutes more until the salmon flakes and the glaze is sticky, not burnt. If the sugar darkens too fast, add 1 tablespoon water and lower the heat.",
+      "Squeeze a little extra lemon over the pan. Scatter sesame seeds.",
+      "Rest 2 minutes. Serve with rice or greens. The glaze should shine and taste sweet-salty, not bitter."
+    ]
+  },
+  {
+    "id": "r031",
+    "name": "Lamb Tagine",
+    "image": "https://www.themealdb.com/images/media/meals/yuwtuu1511295751.jpg",
+    "cookTime": 45,
+    "difficulty": "medium",
+    "cuisine": "mediterranean",
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "lamb",
+        "quantity": "500 g",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "garlic",
+        "quantity": "3 cloves",
+        "optional": false
+      },
+      {
+        "name": "chickpea",
+        "quantity": "1 can",
+        "optional": false
+      },
+      {
+        "name": "cumin",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "tomato",
+        "quantity": "2",
+        "optional": false
+      },
+      {
+        "name": "cilantro",
+        "quantity": "1 handful",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Cut 500 g lamb into 3 cm cubes. Pat dry and season with salt. Dice 1 onion. Mince 3 garlic cloves. Chop 2 tomatoes. Drain 1 can of chickpeas.",
+      "Heat 1 tablespoon oil in a heavy pot over medium-high. Brown lamb in batches 2–3 minutes per side. Crowding makes it grey. Set aside.",
+      "Lower heat to medium. Cook onion in the lamb fat 5 minutes until soft. Add garlic and 1 teaspoon cumin. Stir 30 seconds until the cumin smells toasty.",
+      "Return lamb and any juices. Add tomato and 200 ml water. Scrape browned bits off the bottom — that is flavour.",
+      "Cover and simmer gently 35–40 minutes until lamb is tender when pierced. Add a splash of water if it dries out.",
+      "Stir in chickpeas and simmer uncovered 5 minutes so they take on the sauce. Taste for salt and cumin.",
+      "Rest 5 minutes. Scatter cilantro. Serve with bread or couscous. The sauce should be spoonable, not watery."
+    ]
+  },
+  {
+    "id": "r032",
+    "name": "Garlic Thyme Lentils",
+    "image": "https://www.themealdb.com/images/media/meals/vwwspt1487394060.jpg",
+    "cookTime": 35,
+    "difficulty": "easy",
+    "cuisine": "french",
+    "servings": 3,
+    "ingredients": [
+      {
+        "name": "lentil",
+        "quantity": "1 cup",
+        "optional": false
+      },
+      {
+        "name": "garlic",
+        "quantity": "3 cloves",
+        "optional": false
+      },
+      {
+        "name": "thyme",
+        "quantity": "4 sprigs",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "olive oil",
+        "quantity": "2 tbsp",
+        "optional": false
+      },
+      {
+        "name": "stock",
+        "quantity": "3 cups",
+        "optional": false
+      },
+      {
+        "name": "parsley",
+        "quantity": "2 tbsp",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Rinse 1 cup lentils until water runs clear. Pick out any stones. Dice 1 onion. Mince 3 garlic cloves. Have 4 thyme sprigs and 3 cups stock ready.",
+      "Heat 2 tablespoons olive oil over medium. Cook onion 6 minutes until translucent. Add garlic 30 seconds.",
+      "Add lentils, thyme, and stock. Bring to a boil, then simmer uncovered 20–25 minutes until lentils are tender but still hold their shape. Add water if the pot looks dry before they are done.",
+      "Fish out thyme stems. The leaves can stay. Season with salt only at the end — salt too early can keep some lentils firm.",
+      "If you want it brothier, add a splash of stock; for a stew, simmer 3 minutes more to thicken.",
+      "Taste. The lentils should taste of garlic and thyme, not only water. Finish with chopped parsley and a drizzle of olive oil."
+    ]
+  },
+  {
+    "id": "r033",
+    "name": "Chickpea Fajitas",
+    "image": "https://www.themealdb.com/images/media/meals/tvtxpq1511464705.jpg",
+    "cookTime": 25,
+    "difficulty": "easy",
+    "cuisine": "mexican",
+    "servings": 3,
+    "ingredients": [
+      {
+        "name": "chickpea",
+        "quantity": "1 can",
+        "optional": false
+      },
+      {
+        "name": "bell pepper",
+        "quantity": "2",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "tortilla",
+        "quantity": "6",
+        "optional": false
+      },
+      {
+        "name": "cumin",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "chili",
+        "quantity": "1",
+        "optional": true
+      },
+      {
+        "name": "lime",
+        "quantity": "1",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Drain and rinse 1 can of chickpeas. Pat them very dry. Toss with 1 teaspoon cumin, salt, and a little oil.",
+      "Slice 2 bell peppers and 1 onion into 1 cm strips. Warm 6 tortillas and wrap them.",
+      "Heat a large skillet over high heat. Add 1 tablespoon oil. Cook onion and pepper 5–7 minutes without stirring too often so they blister and sweeten.",
+      "Push vegetables aside. Add chickpeas. Cook 3–4 minutes, shaking the pan, until some chickpeas split and brown.",
+      "Toss everything together. Taste. Add minced chili if you want heat and a squeeze of lime for acidity.",
+      "Pile into tortillas. The filling should be hot and slightly charred, not steamed. Serve extra lime on the side."
+    ]
+  },
+  {
+    "id": "r034",
+    "name": "Split Pea Soup",
+    "image": "https://www.themealdb.com/images/media/meals/xxtsvx1511814083.jpg",
+    "cookTime": 45,
+    "difficulty": "easy",
+    "cuisine": "american",
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "peas",
+        "quantity": "1.5 cups dried split",
+        "optional": false
+      },
+      {
+        "name": "carrot",
+        "quantity": "2",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "stock",
+        "quantity": "5 cups",
+        "optional": false
+      },
+      {
+        "name": "leek",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "thyme",
+        "quantity": "2 sprigs",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Rinse 1½ cups dried split peas. Dice 1 onion, 1 leek (white and light green only, washed well of grit), and 2 carrots.",
+      "Melt a little oil or butter in a pot over medium. Cook onion, leek, and carrot 8 minutes until soft and smelling sweet.",
+      "Add split peas, 5 cups stock, and 2 thyme sprigs. Bring to a boil, then simmer partly covered 35–40 minutes, stirring every 10 minutes so peas do not catch on the bottom.",
+      "When peas collapse and the soup looks thick and porridge-like, remove thyme. Mash some of the soup against the pot, or blend half.",
+      "Season with salt and pepper. Split peas need more salt than you think once they thicken. Loosen with stock if it sets too stiff.",
+      "Serve hot. The soup will thicken more as it cools; keep extra stock for leftovers."
+    ]
+  },
+  {
+    "id": "r035",
+    "name": "Falafel Pita",
+    "image": "https://www.themealdb.com/images/media/meals/ae6clc1760524712.jpg",
+    "cookTime": 30,
+    "difficulty": "medium",
+    "cuisine": "mediterranean",
+    "servings": 3,
+    "ingredients": [
+      {
+        "name": "chickpea",
+        "quantity": "1 can",
+        "optional": false
+      },
+      {
+        "name": "garlic",
+        "quantity": "2 cloves",
+        "optional": false
+      },
+      {
+        "name": "cumin",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "parsley",
+        "quantity": "1 handful",
+        "optional": false
+      },
+      {
+        "name": "bread",
+        "quantity": "3 pitas",
+        "optional": false
+      },
+      {
+        "name": "lettuce",
+        "quantity": "1 cup",
+        "optional": false
+      },
+      {
+        "name": "yogurt",
+        "quantity": "1/2 cup",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Drain 1 can of chickpeas very well and pat dry. Roughly chop a handful of parsley. Mince 2 garlic cloves.",
+      "Pulse chickpeas, garlic, 1 teaspoon cumin, parsley, salt, and 1 tablespoon flour or a spoon of the chickpea liquid in a processor until coarse, like wet sand. Do not puree to hummus or the patties will be pasty.",
+      "Chill the mix 10 minutes. With wet hands, shape 8 small patties 1.5 cm thick. If they crack, the mix is too dry — add a teaspoon of water.",
+      "Heat 3 mm oil in a skillet over medium. Fry patties 3–4 minutes per side until deep brown and crisp. Drain on paper.",
+      "Warm 3 pitas. Shred lettuce. Stir yogurt with a pinch of salt if using.",
+      "Open each pita, add lettuce, 2–3 falafel, and yogurt. Eat while the crust is still crunchy. Reheating in a microwave will soften them — use a pan instead."
+    ]
+  },
+  {
+    "id": "r036",
+    "name": "Cauliflower Stir Fry",
+    "image": "https://www.themealdb.com/images/media/meals/1oz4nb1765687990.jpg",
+    "cookTime": 20,
+    "difficulty": "easy",
+    "cuisine": "chinese",
+    "servings": 2,
+    "ingredients": [
+      {
+        "name": "cauliflower",
+        "quantity": "1 small head",
+        "optional": false
+      },
+      {
+        "name": "garlic",
+        "quantity": "3 cloves",
+        "optional": false
+      },
+      {
+        "name": "ginger",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "soy sauce",
+        "quantity": "2 tbsp",
+        "optional": false
+      },
+      {
+        "name": "green bean",
+        "quantity": "1 cup",
+        "optional": false
+      },
+      {
+        "name": "chili",
+        "quantity": "1",
+        "optional": true
+      },
+      {
+        "name": "sesame oil",
+        "quantity": "1 tsp",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Cut 1 small cauliflower into small florets of even size. Trim 1 cup green beans into 4 cm lengths. Mince 3 garlic cloves and 1 tablespoon ginger. Slice 1 chili.",
+      "Pat vegetables dry so they fry instead of steaming.",
+      "Heat 2 tablespoons oil in a wok over high heat until shimmering. Add cauliflower and beans. Stir-fry 3 minutes until cauliflower edges brown in spots.",
+      "Add 2 tablespoons water and cover 1 minute so the stems start to tenderise. Uncover; water should be gone.",
+      "Add garlic, ginger, and chili. Stir 20 seconds. Pour in 2 tablespoons soy sauce and toss 30 seconds.",
+      "Taste a floret: it should be crisp-tender, not mushy. Finish with 1 teaspoon sesame oil off the heat. Serve immediately with rice."
+    ]
+  }
+]

@@ -1,0 +1,889 @@
+{
+  "ingredients": {
+    "groups": [
+      {
+        "id": "proteins",
+        "label": "Proteins",
+        "ingredients": [
+          {
+            "value": "chicken",
+            "label": "Chicken"
+          },
+          {
+            "value": "beef",
+            "label": "Beef"
+          },
+          {
+            "value": "pork",
+            "label": "Pork"
+          },
+          {
+            "value": "ground beef",
+            "label": "Ground beef"
+          },
+          {
+            "value": "shrimp",
+            "label": "Shrimp"
+          },
+          {
+            "value": "salmon",
+            "label": "Salmon"
+          },
+          {
+            "value": "tuna",
+            "label": "Tuna"
+          },
+          {
+            "value": "tofu",
+            "label": "Tofu"
+          },
+          {
+            "value": "egg",
+            "label": "Eggs"
+          },
+          {
+            "value": "bacon",
+            "label": "Bacon"
+          },
+          {
+            "value": "lamb",
+            "label": "Lamb"
+          },
+          {
+            "value": "turkey",
+            "label": "Turkey"
+          },
+          {
+            "value": "duck",
+            "label": "Duck"
+          },
+          {
+            "value": "squid",
+            "label": "Squid"
+          }
+        ]
+      },
+      {
+        "id": "vegetables",
+        "label": "Vegetables",
+        "ingredients": [
+          {
+            "value": "tomato",
+            "label": "Tomato"
+          },
+          {
+            "value": "onion",
+            "label": "Onion"
+          },
+          {
+            "value": "garlic",
+            "label": "Garlic"
+          },
+          {
+            "value": "ginger",
+            "label": "Ginger"
+          },
+          {
+            "value": "carrot",
+            "label": "Carrot"
+          },
+          {
+            "value": "potato",
+            "label": "Potato"
+          },
+          {
+            "value": "mushroom",
+            "label": "Mushroom"
+          },
+          {
+            "value": "spinach",
+            "label": "Spinach"
+          },
+          {
+            "value": "cabbage",
+            "label": "Cabbage"
+          },
+          {
+            "value": "bell pepper",
+            "label": "Bell pepper"
+          },
+          {
+            "value": "broccoli",
+            "label": "Broccoli"
+          },
+          {
+            "value": "cucumber",
+            "label": "Cucumber"
+          },
+          {
+            "value": "lettuce",
+            "label": "Lettuce"
+          },
+          {
+            "value": "zucchini",
+            "label": "Zucchini"
+          },
+          {
+            "value": "eggplant",
+            "label": "Eggplant"
+          },
+          {
+            "value": "chili",
+            "label": "Chili"
+          },
+          {
+            "value": "celery",
+            "label": "Celery"
+          },
+          {
+            "value": "corn",
+            "label": "Corn"
+          },
+          {
+            "value": "kale",
+            "label": "Kale"
+          },
+          {
+            "value": "asparagus",
+            "label": "Asparagus"
+          },
+          {
+            "value": "green bean",
+            "label": "Green beans"
+          },
+          {
+            "value": "peas",
+            "label": "Peas"
+          },
+          {
+            "value": "cauliflower",
+            "label": "Cauliflower"
+          },
+          {
+            "value": "sweet potato",
+            "label": "Sweet potato"
+          },
+          {
+            "value": "leek",
+            "label": "Leek"
+          },
+          {
+            "value": "chickpea",
+            "label": "Chickpeas"
+          }
+        ]
+      },
+      {
+        "id": "herbs",
+        "label": "Herbs & aromatics",
+        "ingredients": [
+          {
+            "value": "cilantro",
+            "label": "Cilantro"
+          },
+          {
+            "value": "basil",
+            "label": "Basil"
+          },
+          {
+            "value": "mint",
+            "label": "Mint"
+          },
+          {
+            "value": "green onion",
+            "label": "Green onion"
+          },
+          {
+            "value": "parsley",
+            "label": "Parsley"
+          },
+          {
+            "value": "lemongrass",
+            "label": "Lemongrass"
+          },
+          {
+            "value": "rosemary",
+            "label": "Rosemary"
+          },
+          {
+            "value": "thyme",
+            "label": "Thyme"
+          },
+          {
+            "value": "dill",
+            "label": "Dill"
+          },
+          {
+            "value": "oregano",
+            "label": "Oregano"
+          }
+        ]
+      },
+      {
+        "id": "dairy",
+        "label": "Dairy",
+        "ingredients": [
+          {
+            "value": "milk",
+            "label": "Milk"
+          },
+          {
+            "value": "butter",
+            "label": "Butter"
+          },
+          {
+            "value": "cheese",
+            "label": "Cheese"
+          },
+          {
+            "value": "yogurt",
+            "label": "Yogurt"
+          },
+          {
+            "value": "cream",
+            "label": "Cream"
+          },
+          {
+            "value": "mozzarella",
+            "label": "Mozzarella"
+          },
+          {
+            "value": "feta",
+            "label": "Feta"
+          },
+          {
+            "value": "parmesan",
+            "label": "Parmesan"
+          }
+        ]
+      },
+      {
+        "id": "grains",
+        "label": "Grains & bread",
+        "ingredients": [
+          {
+            "value": "rice",
+            "label": "Rice"
+          },
+          {
+            "value": "noodle",
+            "label": "Noodles"
+          },
+          {
+            "value": "pasta",
+            "label": "Pasta"
+          },
+          {
+            "value": "bread",
+            "label": "Bread"
+          },
+          {
+            "value": "flour",
+            "label": "Flour"
+          },
+          {
+            "value": "tortilla",
+            "label": "Tortilla"
+          },
+          {
+            "value": "pizza dough",
+            "label": "Pizza dough"
+          },
+          {
+            "value": "oats",
+            "label": "Oats"
+          },
+          {
+            "value": "quinoa",
+            "label": "Quinoa"
+          },
+          {
+            "value": "couscous",
+            "label": "Couscous"
+          }
+        ]
+      },
+      {
+        "id": "sauces",
+        "label": "Sauces & oils",
+        "ingredients": [
+          {
+            "value": "soy sauce",
+            "label": "Soy sauce"
+          },
+          {
+            "value": "fish sauce",
+            "label": "Fish sauce"
+          },
+          {
+            "value": "olive oil",
+            "label": "Olive oil"
+          },
+          {
+            "value": "sesame oil",
+            "label": "Sesame oil"
+          },
+          {
+            "value": "vinegar",
+            "label": "Vinegar"
+          },
+          {
+            "value": "coconut milk",
+            "label": "Coconut milk"
+          },
+          {
+            "value": "tomato sauce",
+            "label": "Tomato sauce"
+          },
+          {
+            "value": "miso",
+            "label": "Miso"
+          },
+          {
+            "value": "curry paste",
+            "label": "Curry paste"
+          },
+          {
+            "value": "honey",
+            "label": "Honey"
+          },
+          {
+            "value": "mayonnaise",
+            "label": "Mayonnaise"
+          },
+          {
+            "value": "mustard",
+            "label": "Mustard"
+          },
+          {
+            "value": "oyster sauce",
+            "label": "Oyster sauce"
+          },
+          {
+            "value": "chili sauce",
+            "label": "Chili sauce"
+          }
+        ]
+      },
+      {
+        "id": "pantry",
+        "label": "Pantry",
+        "ingredients": [
+          {
+            "value": "sugar",
+            "label": "Sugar"
+          },
+          {
+            "value": "salt",
+            "label": "Salt"
+          },
+          {
+            "value": "pepper",
+            "label": "Pepper"
+          },
+          {
+            "value": "peanut",
+            "label": "Peanuts"
+          },
+          {
+            "value": "sesame",
+            "label": "Sesame seeds"
+          },
+          {
+            "value": "cornstarch",
+            "label": "Cornstarch"
+          },
+          {
+            "value": "stock",
+            "label": "Stock"
+          },
+          {
+            "value": "bean sprout",
+            "label": "Bean sprouts"
+          },
+          {
+            "value": "kimchi",
+            "label": "Kimchi"
+          },
+          {
+            "value": "lentil",
+            "label": "Lentils"
+          },
+          {
+            "value": "black bean",
+            "label": "Black beans"
+          },
+          {
+            "value": "paprika",
+            "label": "Paprika"
+          },
+          {
+            "value": "cumin",
+            "label": "Cumin"
+          }
+        ]
+      },
+      {
+        "id": "fruit",
+        "label": "Fruit & extras",
+        "ingredients": [
+          {
+            "value": "lemon",
+            "label": "Lemon"
+          },
+          {
+            "value": "lime",
+            "label": "Lime"
+          },
+          {
+            "value": "avocado",
+            "label": "Avocado"
+          },
+          {
+            "value": "apple",
+            "label": "Apple"
+          },
+          {
+            "value": "mango",
+            "label": "Mango"
+          },
+          {
+            "value": "pineapple",
+            "label": "Pineapple"
+          },
+          {
+            "value": "banana",
+            "label": "Banana"
+          },
+          {
+            "value": "orange",
+            "label": "Orange"
+          },
+          {
+            "value": "strawberry",
+            "label": "Strawberry"
+          },
+          {
+            "value": "coconut",
+            "label": "Coconut"
+          }
+        ]
+      }
+    ]
+  },
+  "recipes": [
+    {
+      "id": "r001",
+      "name": "Tomato Fried Eggs",
+      "image": "https://www.themealdb.com/images/media/meals/rwvw8q1765660071.jpg",
+      "cookTime": 15,
+      "difficulty": "easy",
+      "cuisine": "vietnamese",
+      "servings": 2,
+      "ingredients": [
+        {
+          "name": "egg",
+          "quantity": "3",
+          "optional": false
+        },
+        {
+          "name": "tomato",
+          "quantity": "2",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "quantity": "1/2",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "quantity": "2 cloves",
+          "optional": false
+        },
+        {
+          "name": "green onion",
+          "quantity": "1 stalk",
+          "optional": true
+        },
+        {
+          "name": "salt",
+          "quantity": "to taste",
+          "optional": true
+        },
+        {
+          "name": "pepper",
+          "quantity": "to taste",
+          "optional": true
+        }
+      ],
+      "steps": [
+        "Crack 3 eggs into a bowl. Add a pinch of salt and beat with chopsticks or a fork for 20–30 seconds, just until the whites and yolks mix. Do not whip in lots of air.",
+        "Halve 2 ripe tomatoes and cut into 2 cm wedges. Thinly slice ½ onion. Smash and mince 2 garlic cloves. Slice the green onion on a bias if using.",
+        "Set a 24–26 cm nonstick or well-seasoned pan over medium-high heat. Add 1 tablespoon oil. When it shimmers, pour in the eggs.",
+        "Push the eggs with a spatula for 20–40 seconds until they are softly set, still glossy, and slightly underdone. Transfer them to a plate. Do not brown them.",
+        "Lower the heat to medium. Add a splash of oil if the pan is dry. Cook onion 1 minute until translucent, then garlic 20 seconds until fragrant (do not burn).",
+        "Add tomato wedges and a pinch of salt. Cook 3–4 minutes, stirring now and then, until the edges wrinkle and a light sauce collects in the pan.",
+        "Return the eggs. Fold them through the tomatoes for 30–45 seconds so they finish cooking in the sauce. Taste and add pepper.",
+        "Scatter green onion on top and serve immediately with rice while the tomatoes are still juicy."
+      ]
+    },
+    {
+      "id": "r003",
+      "name": "Garlic Butter Shrimp",
+      "image": "https://www.themealdb.com/images/media/meals/fpl3mv1766433431.jpg",
+      "cookTime": 20,
+      "difficulty": "easy",
+      "cuisine": "american",
+      "servings": 2,
+      "ingredients": [
+        {
+          "name": "shrimp",
+          "quantity": "400 g",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "quantity": "4 cloves",
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "quantity": "3 tbsp",
+          "optional": false
+        },
+        {
+          "name": "lemon",
+          "quantity": "1",
+          "optional": false
+        },
+        {
+          "name": "parsley",
+          "quantity": "2 tbsp",
+          "optional": true
+        },
+        {
+          "name": "salt",
+          "quantity": "to taste",
+          "optional": true
+        },
+        {
+          "name": "pepper",
+          "quantity": "to taste",
+          "optional": true
+        }
+      ],
+      "steps": [
+        "Pat 400–500 g shrimp very dry with paper towels. Season lightly with salt and pepper. If they are frozen, thaw fully first or they will steam instead of sear.",
+        "Mince 4 garlic cloves. Juice ½ lemon and cut the rest into wedges. Chop a small handful of parsley.",
+        "Set a wide skillet over medium-high heat. Add 1 tablespoon oil. When hot, lay the shrimp in a single layer. Do not crowd the pan.",
+        "Cook 1–1½ minutes per side until the shrimp turn pink and opaque and curl into a loose C (an O usually means overcooked). Transfer to a plate.",
+        "Drop the heat to medium. Add 30 g butter. When it foams, add garlic and stir 30–45 seconds until fragrant, not brown.",
+        "Return the shrimp. Toss 30 seconds in the garlic butter. Squeeze in the lemon juice and toss again.",
+        "Turn off the heat. Stir in parsley. Taste; add a pinch of salt if needed. Serve at once with bread or rice to catch the butter."
+      ]
+    },
+    {
+      "id": "r004",
+      "name": "Spaghetti Carbonara",
+      "image": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg",
+      "cookTime": 25,
+      "difficulty": "medium",
+      "cuisine": "italian",
+      "servings": 2,
+      "ingredients": [
+        {
+          "name": "pasta",
+          "quantity": "200 g",
+          "optional": false
+        },
+        {
+          "name": "egg",
+          "quantity": "3",
+          "optional": false
+        },
+        {
+          "name": "bacon",
+          "quantity": "100 g",
+          "optional": false
+        },
+        {
+          "name": "cheese",
+          "quantity": "60 g",
+          "optional": false
+        },
+        {
+          "name": "pepper",
+          "quantity": "1 tsp",
+          "optional": false
+        },
+        {
+          "name": "salt",
+          "quantity": "for pasta water",
+          "optional": true
+        }
+      ],
+      "steps": [
+        "Bring a large pot of water to a rolling boil and salt it well (it should taste like the sea). Keep a mug ready — you will need pasta water.",
+        "Cut 120–150 g bacon or pancetta into 1 cm strips. Grate about 60 g hard cheese (pecorino or parmesan). Crack 3 eggs into a bowl, add most of the cheese and plenty of black pepper, and beat until smooth.",
+        "Cook 320 g spaghetti until 1 minute shy of the packet time (still a firm bite). Scoop out 1 cup of starchy cooking water, then drain.",
+        "While the pasta cooks, fry the bacon in a wide pan over medium heat until the fat renders and the edges crisp, 6–8 minutes. Turn off the heat. Spoon off extra fat if the pan is swimming, leaving about 2 tablespoons.",
+        "Add the hot drained pasta to the bacon pan and toss so every strand is coated in fat. Wait 30 seconds so the pan is hot but not scorching — raw egg will scramble if it is too hot.",
+        "Pour in the egg–cheese mixture and toss hard, adding pasta water 1–2 tablespoons at a time until you have a glossy sauce that clings, not scrambled curds and not soup.",
+        "Taste. Add salt only if needed (bacon and cheese are salty) and more pepper. Plate immediately and shower with the remaining cheese."
+      ]
+    },
+    {
+      "id": "r008",
+      "name": "Vegetable Fried Rice",
+      "image": "https://www.themealdb.com/images/media/meals/wuyd2h1765655837.jpg",
+      "cookTime": 20,
+      "difficulty": "easy",
+      "cuisine": "chinese",
+      "servings": 3,
+      "ingredients": [
+        {
+          "name": "rice",
+          "quantity": "3 cups cooked, cold",
+          "optional": false
+        },
+        {
+          "name": "egg",
+          "quantity": "2",
+          "optional": false
+        },
+        {
+          "name": "carrot",
+          "quantity": "1",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "quantity": "1/2",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "quantity": "2 cloves",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "quantity": "2 tbsp",
+          "optional": false
+        },
+        {
+          "name": "green onion",
+          "quantity": "2 stalks",
+          "optional": true
+        }
+      ],
+      "steps": [
+        "Use 3 cups cold leftover rice. If it is clumped, wet your fingers and break it into separate grains. Fresh hot rice will turn gluey.",
+        "Dice 1 carrot small (5 mm). Slice ½ onion. Mince 2 garlic cloves. Beat 2 eggs with a pinch of salt. Slice green onion.",
+        "Heat 1 tablespoon oil in a wok or large skillet over high heat until it just smokes. Pour in eggs, scramble 20 seconds until barely set, and scrape onto a plate.",
+        "Add another tablespoon of oil. Stir-fry onion and carrot 2 minutes until the carrot loses its raw crunch. Add garlic 15 seconds.",
+        "Add the rice. Press and toss 2–3 minutes so grains toast and any clumps break. You should hear a light sizzle, not steaming.",
+        "Return the egg. Pour 2 tablespoons soy sauce around the rim of the pan (it caramelizes slightly) and toss until every grain is evenly stained.",
+        "Taste. Add a little more soy if needed. Fold in green onion off the heat and serve immediately."
+      ]
+    },
+    {
+      "id": "r013",
+      "name": "Shakshuka",
+      "image": "https://www.themealdb.com/images/media/meals/g373701551450225.jpg",
+      "cookTime": 30,
+      "difficulty": "easy",
+      "cuisine": "mediterranean",
+      "servings": 3,
+      "ingredients": [
+        {
+          "name": "egg",
+          "quantity": "4",
+          "optional": false
+        },
+        {
+          "name": "tomato",
+          "quantity": "4",
+          "optional": false
+        },
+        {
+          "name": "bell pepper",
+          "quantity": "1",
+          "optional": false
+        },
+        {
+          "name": "onion",
+          "quantity": "1",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "quantity": "3 cloves",
+          "optional": false
+        },
+        {
+          "name": "chili",
+          "quantity": "1",
+          "optional": false
+        },
+        {
+          "name": "bread",
+          "quantity": "to serve",
+          "optional": true
+        }
+      ],
+      "steps": [
+        "Dice 1 onion and 1 bell pepper. Mince 3 garlic cloves and 1 chili (seeds out if you want less heat). Chop 4–5 ripe tomatoes, or use 400 g crushed tomato.",
+        "Warm 2 tablespoons olive oil in a wide skillet over medium heat. Cook onion and pepper 6–8 minutes until soft and sweet, not browned.",
+        "Add garlic and chili. Stir 30 seconds. Add tomatoes and a pinch of salt. Simmer 10–12 minutes, stirring, until the sauce thickens and a spoon dragged through leaves a trail.",
+        "Taste the sauce now — eggs will not add much salt. It should be bright and slightly spicy.",
+        "Make 4–5 wells with a spoon. Crack an egg into each well. Cover the pan. Cook 5–7 minutes until whites are set and yolks are still runny (or longer for firm yolks).",
+        "Do not stir after adding eggs. Spoon a little sauce over the whites if they lag behind the yolks.",
+        "Serve in the pan with toasted bread for scooping. Finish with extra chili if you like heat."
+      ]
+    },
+    {
+      "id": "r019",
+      "name": "French Omelette",
+      "image": "https://www.themealdb.com/images/media/meals/yvpuuy1511797244.jpg",
+      "cookTime": 10,
+      "difficulty": "easy",
+      "cuisine": "french",
+      "servings": 1,
+      "ingredients": [
+        {
+          "name": "egg",
+          "quantity": "3",
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "quantity": "1 tbsp",
+          "optional": false
+        },
+        {
+          "name": "cheese",
+          "quantity": "20 g",
+          "optional": true
+        },
+        {
+          "name": "parsley",
+          "quantity": "1 tsp",
+          "optional": true
+        },
+        {
+          "name": "salt",
+          "quantity": "pinch",
+          "optional": true
+        }
+      ],
+      "steps": [
+        "Crack 3 eggs into a bowl with a pinch of salt. Beat with a fork until completely even in colour, about 20 seconds. Have 20 g cold butter cut in small cubes and 30 g grated cheese ready.",
+        "Warm an 18–20 cm nonstick pan over medium-low. Add half the butter and swirl as it melts — the pan should be hot enough that a drop of egg sets in 2 seconds, not instantly brown.",
+        "Pour in the eggs. Stir constantly with a spatula in small circles, shaking the pan, for 30–45 seconds until small curds form and the mixture looks like very loose custard.",
+        "Stop stirring. Let a thin skin set on the bottom 10 seconds. Scatter cheese down the centre. Tilt the pan and fold the omelette into a cigar with the spatula.",
+        "The inside should still be slightly creamy (baveuse). If it looks dry, you have gone too far.",
+        "Roll onto a warm plate seam-side down. Rub the remaining butter on top for shine. Scatter chopped parsley. Eat immediately."
+      ]
+    },
+    {
+      "id": "r022",
+      "name": "Avocado Toast",
+      "image": "https://www.themealdb.com/images/media/meals/lz9rw91779733434.jpg",
+      "cookTime": 10,
+      "difficulty": "easy",
+      "cuisine": "american",
+      "servings": 1,
+      "ingredients": [
+        {
+          "name": "bread",
+          "quantity": "2 slices",
+          "optional": false
+        },
+        {
+          "name": "avocado",
+          "quantity": "1",
+          "optional": false
+        },
+        {
+          "name": "egg",
+          "quantity": "1",
+          "optional": false
+        },
+        {
+          "name": "lemon",
+          "quantity": "1/2",
+          "optional": false
+        },
+        {
+          "name": "chili",
+          "quantity": "pinch of flakes",
+          "optional": true
+        },
+        {
+          "name": "salt",
+          "quantity": "to taste",
+          "optional": true
+        }
+      ],
+      "steps": [
+        "Toast 2 thick slices of bread until the surface is crisp but the centre still has a little chew, 2–3 minutes in a toaster or skillet.",
+        "Halve 1 ripe avocado. Scoop the flesh into a bowl. Add a squeeze of lemon, a pinch of salt, and mash with a fork, leaving some chunks.",
+        "Taste the mash: it should be lemony enough to stay bright green and not dull. Add chili flakes or minced chili.",
+        "Fry or poach 2 eggs: for fried, medium heat, 2–3 minutes until whites set and edges barely crisp; for poached, 3 minutes in barely simmering water with a drop of vinegar.",
+        "Spread avocado thickly on the toast, going all the way to the crust so bites are not dry bread.",
+        "Set an egg on each slice. Sprinkle salt, pepper, and more chili. Eat at once so the toast does not steam soggy under the avocado."
+      ]
+    },
+    {
+      "id": "r027",
+      "name": "Garlic Noodles",
+      "image": "https://www.themealdb.com/images/media/meals/f3cxnc1765656994.jpg",
+      "cookTime": 15,
+      "difficulty": "easy",
+      "cuisine": "vietnamese",
+      "servings": 2,
+      "ingredients": [
+        {
+          "name": "noodle",
+          "quantity": "250 g",
+          "optional": false
+        },
+        {
+          "name": "garlic",
+          "quantity": "6 cloves",
+          "optional": false
+        },
+        {
+          "name": "butter",
+          "quantity": "2 tbsp",
+          "optional": false
+        },
+        {
+          "name": "soy sauce",
+          "quantity": "2 tbsp",
+          "optional": false
+        },
+        {
+          "name": "green onion",
+          "quantity": "2 stalks",
+          "optional": false
+        },
+        {
+          "name": "sesame",
+          "quantity": "1 tsp",
+          "optional": true
+        }
+      ],
+      "steps": [
+        "Boil 300 g noodles in salted water until just tender. Scoop out ½ cup cooking water. Drain.",
+        "Thinly slice 5–6 garlic cloves — more slices brown more evenly than a rough mince. Slice green onion. Toast 1 teaspoon sesame seeds.",
+        "Melt 40 g butter in a wide pan over medium-low. Add garlic and cook 2–3 minutes, stirring, until pale gold and smelling sweet. If it turns dark brown, start over — bitter garlic will ruin the dish.",
+        "Add 2 tablespoons soy sauce and a splash of noodle water. It should bubble into a brown emulsion.",
+        "Add noodles. Toss 1 minute, adding water a spoon at a time until every strand is coated and glossy.",
+        "Taste. The noodles should be savory and garlicky, not salty-dry. Scatter green onion and sesame. Serve immediately."
+      ]
+    }
+  ]
+}
